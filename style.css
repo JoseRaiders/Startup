@@ -23,6 +23,12 @@ hr {
   opacity: 1;
 }
 
+.logo {
+  width: 100px;
+  height: auto;
+  margin: 10px auto;
+}
+
 .buffer {
   height: 10rem;
 }
